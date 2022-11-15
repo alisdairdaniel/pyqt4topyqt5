@@ -802,7 +802,7 @@ QVARIANT_OBSOLETE_METHODS = [
     'toSizeF',
     'toUrl',
     'toUuid',
-    # Many conversion methods that were used by QVariant are still used by other classes
+    # Many conversion methods that were used by QVariant are still used by other classes.
     # and cannot be removed indiscriminately.
     # 'toBool',         # used by QJasonValue and QJSValue
     # 'toByteArray',    # used by QUuid, QNdefMessage, QDomDocument
